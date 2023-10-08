@@ -4,7 +4,7 @@ Welcome to Titan Voyagers, an exciting and educational game that takes you on a 
 
 Game ```v1.0``` is Available at : https://nasa-titanvoyagers.netlify.app/
 
-Game Repository is available at: https://github.com/ZiyaanMir/Titan-s-Frontier
+Webpage Repository is available at: https://github.com/Faiz-Iqbal/nasa-webpage
 
 
 ## Game Overview
